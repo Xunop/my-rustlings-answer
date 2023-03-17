@@ -1,5 +1,6 @@
 # my-rustlings-answer
 The repo is used to record my answer and sync between my devices.
+The original repo: [rustlings](https://github.com/rust-lang/rustlings). Thanks to this repository, I can learn rust in this simple way🥳.
 
 # rustlings 🦀❤️
 
